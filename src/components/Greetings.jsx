@@ -4,7 +4,7 @@ function Greetings({name}) {
     return (
     <div>
         <h2>Hello {name}!</h2>
-        <p>This is your first custom component in React.</p>
+        <p>This a selection of our finest colonges.</p>
       </div>
     );
 }
